@@ -1,0 +1,1 @@
+The project involves exploring the distribution of ride demands between Uber & Lyft, across hours of the day, across days of the week and current market share between the providers.
